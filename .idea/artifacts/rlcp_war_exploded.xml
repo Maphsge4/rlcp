@@ -1,0 +1,41 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="rlcp:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/rlcp_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="rlcp" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="commons-fileupload-1.2.1.jar" module-name="rlcp" />
+          <element id="library" level="module" name="commons-io-1.3.2.jar" module-name="rlcp" />
+          <element id="library" level="module" name="dwr.jar" module-name="rlcp" />
+          <element id="library" level="module" name="FCKeditor-2.3.jar" module-name="rlcp" />
+          <element id="library" level="module" name="fckeditor-java-core-2.4.1.jar" module-name="rlcp" />
+          <element id="library" level="module" name="jspsmartupload.jar" module-name="rlcp" />
+          <element id="library" level="module" name="jstl-1.2.jar" module-name="rlcp" />
+          <element id="library" level="module" name="jtds-1.2.jar" module-name="rlcp" />
+          <element id="library" level="module" name="msbase.jar" module-name="rlcp" />
+          <element id="library" level="module" name="mssqlserver.jar" module-name="rlcp" />
+          <element id="library" level="module" name="msutil.jar" module-name="rlcp" />
+          <element id="library" level="module" name="slf4j-api-1.5.2.jar" module-name="rlcp" />
+          <element id="library" level="module" name="slf4j-simple-1.5.2.jar" module-name="rlcp" />
+          <element id="library" level="module" name="sunjce_provider.jar.jar" module-name="rlcp" />
+          <element id="library" level="module" name="WebRoot/WEB-INF/lib/sqljdbc41.jar" module-name="rlcp" />
+          <element id="library" level="module" name="WebRoot/WEB-INF/lib/mysql-connector-java-8.0.17.jar" module-name="rlcp" />
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+      <element id="library" level="module" name="mysql-connector-java-8.0.17.jar" module-name="rlcp" />
+      <element id="library" level="module" name="sqljdbc41.jar" module-name="rlcp" />
+      <element id="library" level="module" name="javax.xml.bind.jar" module-name="rlcp" />
+      <element id="library" level="module" name="mssql-jdbc-11.2.0.jre8.jar" module-name="rlcp" />
+      <element id="library" level="module" name="sqljdbc.jar" module-name="rlcp" />
+      <element id="library" level="module" name="mssql-jdbc-9.4.1.jre8.jar" module-name="rlcp" />
+      <element id="library" level="module" name="sqljdbc42.jar" module-name="rlcp" />
+      <element id="library" level="module" name="mssql-jdbc-11.2.0.jre17.jar" module-name="rlcp" />
+      <element id="javaee-facet-resources" facet="rlcp/web/Web" />
+      <element id="javaee-facet-resources" facet="rlcp/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
